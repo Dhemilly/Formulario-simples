@@ -1,0 +1,32 @@
+body{ background-image: linear-gradient(to right, #1859d3, #0091fc, #00bbd9, #00da84);}
+header{
+	   background: #000001;
+
+        padding: 10px 10px;
+         }
+h1{font-size: 60px;
+   text-align:center;
+   background-image: linear-gradient(to right, #1859d3, #0091fc, #00bbd9, #00da84, #a8eb12);
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;
+   }
+
+.logo {margin-left: 50px;
+       margin: auto 40px;
+        }
+
+main{width:  940px;
+    margin: 0px auto;
+    }
+        form{margin: 70px 40px;
+        }
+
+        form label, form p{ display: block;
+                    font-size:20px;
+                    margin:0 0 10px }
+
+        .input-padrao{display: block;
+                   margin: 0 0 20px;
+                   padding: 10px 25px;
+                   width: 50%}
